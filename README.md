@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mihailungu0102
 - 👀 I’m interested in a hosting provider
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on torchbye
+- 💞️ I’m looking to collaborate on torchbyte
 - 📫 How to reach me mihailungu0102@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not a simp :)
